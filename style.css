@@ -63,7 +63,10 @@
 }
 .subscribes input{
     border:none;
-    padding:8px 0px;
+    padding:8px 6px;
+    outline: none;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
 }
 .subscribes .buy-now-btn{
     border-bottom-left-radius: 0px;
